@@ -14,6 +14,7 @@ Follow the [setup instructions](https://www.waveshare.com/wiki/File:1.5inch_OLED
 Then clone this repository:
 
     git clone https://github.com/llvllch/doomed.git
+    cd doomed
     
 # Running
 
