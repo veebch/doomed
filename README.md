@@ -5,7 +5,7 @@ A  [fear and greed index](https://alternative.me/crypto/fear-and-greed-index/vis
 
 # Hardware
 
-Uses a Waveshare 1.5 inch RGB OLED, 128 x 128 pixels. Tested with Raspberry Pi Zero. TO DO: Pico Version
+Uses a Waveshare 1.5 inch RGB OLED, 128 x 128 pixels. Tested with Raspberry Pi Zero. **TO DO: Pico Version**
 
 # Installation
 
