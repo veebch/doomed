@@ -17,6 +17,8 @@ Then clone this repository:
     
 # Running
 
+To start the code running, issue the command: 
+
     python3 main.py
 
 # Acknowlegement
