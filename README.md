@@ -32,9 +32,10 @@ To start the code running, issue the command:
 
     python3 main.py
 
-# Acknowlegement
+# Acknowlegements
 
-The default images are based on the sprite set [shared online](https://spritedatabase.net/display.php?object=549) by FalconDelta.
+- The default images are based on the sprite set [shared online](https://spritedatabase.net/display.php?object=549) by FalconDelta.
+- Doom - https://en.wikipedia.org/wiki/Doom_(1993_video_game)
 
 # Licence
 
