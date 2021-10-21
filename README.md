@@ -17,7 +17,7 @@ Then clone this repository:
     
 # Running
 
-   python3 main.py
+    python3 main.py
 
 # Acknowlegement
 
