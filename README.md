@@ -3,8 +3,8 @@
 # We're all Doomed - A Bitcoin Fear and Greed Index visualiser
 A [fear and greed index](https://alternative.me/crypto/fear-and-greed-index/visualiser) visualiser for Bitcoin inspired by the Doom health monitor. The Fear and Greed Index is a multifactorial Bitcoin market sentiment analysis. This code is just a simple tool that pulls that index and visualises it in a window inspired by the health status graphic from Doom. Doom is a first-person-shooter from the 1990s.
 
-- Low health images used for Fear
-- High health images used for Greed
+- Low health images used for low index value  (**Fear**) 
+- High health images used for high index value (**Greed**)
 
 This does not mean greed is good, m'kay?
 
