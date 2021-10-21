@@ -15,7 +15,12 @@ Then clone this repository:
 
     git clone https://github.com/llvllch/doomed.git
     cd doomed
-    
+
+Install the required Python3 modules
+```
+python3 -m pip install -r requirements.txt
+```
+
 # Running
 
 To start the code running, issue the command: 
