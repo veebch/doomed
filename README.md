@@ -17,7 +17,7 @@ Then clone this repository:
     
 # Running
 
-Then add as a service. Done.
+   python3 main.py
 
 # Acknowlegement
 
