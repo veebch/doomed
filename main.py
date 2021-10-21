@@ -27,6 +27,8 @@ def Display_Picture(File_Name, score):
     draw = ImageDraw.Draw(image)
     font = ImageFont.truetype(os.path.join(fontdir,'RobotoCondensed-Bold.ttf'),22)
     draw.text((102, 106), str(score), fill = "WHITE", font = font)
+    angle = 180
+    image = image.rotate(angle, expand=True)
     OLED.Display_Image(image)
 
 
