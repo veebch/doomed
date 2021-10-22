@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 # -*- coding:UTF-8 -*-
+# Code at github.com/llvllch/doomed 
+# Oct' 21
 
 #--------------Driver Library-----------------#
 import RPi.GPIO as GPIO
