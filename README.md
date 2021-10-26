@@ -2,7 +2,7 @@
 
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCz5BOU9J9pB_O0B8-rDjCWQ?label=YouTube&style=social)](https://www.youtube.com/channel/UCz5BOU9J9pB_O0B8-rDjCWQ)
 
-# We're Doomed - A Fear and Greed index OLED visualiser for Bitcoin
+# We're Doomed - A Bitcoin Fear and Greed index OLED visualiser 
 
 Doom is a first-person-shooter from the 1990s. The health status monitor was one of the many brilliant things about it.
 
