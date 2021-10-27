@@ -38,6 +38,10 @@ python3 -m pip install -r requirements.txt
 To start the code running, issue the command: 
 
     python3 main.py
+ 
+# Video
+
+You can see a video of it running [here](https://www.youtube.com/c/veebprojects)
 
 # Acknowlegements
 
