@@ -41,7 +41,7 @@ To start the code running, issue the command:
  
 # Video
 
-You can see a video of it running [here](https://www.youtube.com/c/veebprojects)
+You can see a video of it running [here](https://youtu.be/1i0P7M9W5Q8)
 
 # Acknowlegements
 
