@@ -21,7 +21,7 @@ Uses a Waveshare 1.5 inch RGB OLED, 128 x 128 pixels. Tested with Raspberry Pi Z
 
 # Installation
 
-Follow the [setup instructions](https://www.waveshare.com/wiki/File:1.5inch_OLED_Module_User_Manual_EN.pdf) for the OLED screen. 
+Follow the [setup instructions](https://www.waveshare.com/wiki/File:1.5inch_OLED_Module_User_Manual_EN.pdf) for the OLED screen. This document also contains the GPIO pins that you will use for the screen. 
 
 Clone this repository:
 
