@@ -41,7 +41,8 @@ To start the code running, issue the command:
  
 # Video
 
-You can see a video of it running [here](https://youtu.be/1i0P7M9W5Q8)
+[![Cooking With Micropython](http://img.youtube.com/vi/1i0P7M9W5Q8/0.jpg)](http://www.youtube.com/watch?v=1i0P7M9W5Q8 "Video Title")
+
 
 # Acknowlegements
 
