@@ -49,7 +49,7 @@ To start the code running, issue the command:
 - The default images are based on the sprite set [shared online](https://spritedatabase.net/display.php?object=549) by FalconDelta.
 - Doom - https://en.wikipedia.org/wiki/Doom_(1993_video_game)
 - `OLED_Driver.py` from Waveshare
-- We made a version with a bigger screen that also displays price. We sell them [here](https://www.veeb.ch/store/p/12nuts-76esz)
+- We made a version with a bigger screen that also displays price. We sell them [here](https://www.veeb.ch/store/p/12nuts-76esz).
 
 # Licence
 
